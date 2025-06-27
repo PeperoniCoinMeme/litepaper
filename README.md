@@ -117,7 +117,7 @@ Our roadmap isn’t bound by rigid timelines we build as the dough rises and the
 
 ### M4 - Merchandising Store Goes Live
 
-> Grab the hottest meme merch straight from the oven. Think “Redbubble meets meme coin culture” — but spicy, fast, and fueled by $PEPERONI.
+> Grab the hottest meme merch straight from the oven. Think “Redbubble meets meme coin culture”, but spicy, fast, and fueled by $PEPERONI.
 
 \newpage
 ### M5 - $PEPERONI as Payment Integration
@@ -209,7 +209,7 @@ PEPERONI is a **meme coin**, created **for entertainment, culture, and community
 
 ### TL;DR:
 
-If you’re looking for a guaranteed return, **this ain't it**. $PEPERONI is a spicy slice of internet culture — not financial advice, not a promise of gains.
+If you’re looking for a guaranteed return, **this ain't it**. $PEPERONI is a spicy slice of internet culture, not financial advice, not a promise of gains.
 
 > “We’re baking memes, not securities.”
 
