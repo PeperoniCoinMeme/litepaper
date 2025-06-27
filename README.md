@@ -47,8 +47,8 @@ header-includes:
     - [M8 - Meme On-Chain Form Tool](#m8---meme-on-chain-form-tool)
   - [Sliceonomics](#sliceonomics)
     - [Total Supply: **1,790,000,000 $PEPERONI**](#total-supply-1790000000-peperoni)
-    - [The Great Burn: 790,000,000 $PEPERONI (44.13%)](#the-great-burn-790000000-peperoni-4413)
-    - [From the Oven to the Table 1B $PEPERONI Distribution](#from-the-oven-to-the-table-1b-peperoni-distribution)
+    - [The Milestone Burn: 790,000,000 $PEPERONI (44.13%)](#the-milestone-burn-790000000-peperoni-4413)
+    - [Distribution of the 1,000,000,000 $PEPERONI remaining supply](#distribution-of-the-1000000000-peperoni-remaining-supply)
     - [Toppings You’ll Love:](#toppings-youll-love)
   - [Disclaimer: No Promises, Just Peperonis](#disclaimer-no-promises-just-peperonis)
     - [Read This Before You Ape:](#read-this-before-you-ape)
@@ -117,7 +117,7 @@ Our roadmap isn’t bound by rigid timelines we build as the dough rises and the
 
 ### M4 - Merchandising Store Goes Live
 
-> Grab the hottest meme merch straight from the oven. Think “Redbubble meets meme coin culture” — but spicy, fast, and fueled by $PEPERONI.
+> Grab the hottest meme merch straight from the oven. Think “Redbubble meets meme coin culture”, but spicy, fast, and fueled by $PEPERONI.
 
 \newpage
 ### M5 - $PEPERONI as Payment Integration
@@ -126,7 +126,7 @@ Our roadmap isn’t bound by rigid timelines we build as the dough rises and the
 
 ### M6 - Meme Coin Launchpad
 
-> Launch meme tokens without code in minutes. Think “$DOGELauncher” but Solana-speed and peppered with vibes.
+> Launch meme tokens without code in minutes. Think “$DOGE Launcher” but Solana-speed and peppered with vibes.
 
 ### M7 - Meme Airdrop Tool
 
@@ -138,23 +138,44 @@ Our roadmap isn’t bound by rigid timelines we build as the dough rises and the
 
 ---
 
+\newpage
+
 ## Sliceonomics
 
 ### Total Supply: **1,790,000,000 $PEPERONI**
 
-Like a real pizza, it starts with the base and we’re baking it right.
+Like any legendary pizza, it all starts with the dough and we’re baking it right.
 
-### The Great Burn: 790,000,000 $PEPERONI (44.13%)
+### The Milestone Burn: 790,000,000 $PEPERONI (44.13%)
 
-At launch, we’re burning **790 million tokens**, turning them into the *“pizza dough”* that fuels our ecosystem. This symbolic burn represents the firewood, the heat, and the initial *massa* that kickstarts the **Most Valuable Pizza Ever Baked**.
+At launch, we’re firing up the oven and turning 790 million tokens into the “pizza dough”, the base layer of scarcity and flavor for the $PEPERONI ecosystem.
 
-**Remaining Supply: 1,000,000,000 $PEPERONI**
+But we’re not tossing it all into the fire at once.
+
+This dough will be baked in slices, with tokens burned progressively across 8 project milestones.
+The earlier the milestone, the hotter the burn larger portions toasted upfront, with smaller slices burned as the project rises in adoption and utility.
+
+
+| Milestone | Description                    | Tokens Burned   | Burn % of Total Burn |
+| --------- | ------------------------------ | --------------- | -------------------- |
+| M1        | Token Launch on Solana’s DEX   | 200,000,000     | 25.32%               |
+| M2        | The Most Valuable Pizza Launch | 160,000,000     | 20.25%               |
+| M3        | Peperoni as a Service (PaaS)   | 120,000,000     | 15.19%               |
+| M4        | Merch Store Goes Live          | 100,000,000     | 12.66%               |
+| M5        | \$PEPERONI as Payment          | 80,000,000      | 10.13%               |
+| M6        | Meme Coin Launchpad            | 60,000,000      | 7.59%                |
+| M7        | Meme Airdrop Tool              | 40,000,000      | 5.06%                |
+| M8        | Meme On-Chain Form Tool        | 30,000,000      | 3.80%                |
+| **Total** |                                | **790,000,000** | **100%**             |
+
+
+
 
 \newpage
 
 ---
 
-### From the Oven to the Table 1B $PEPERONI Distribution
+### Distribution of the 1,000,000,000 $PEPERONI remaining supply 
 
 | Category        | Allocation  | % of Remaining Supply | Purpose                                                                                                |
 | ----------------------- | ------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------ |
@@ -188,7 +209,7 @@ PEPERONI is a **meme coin**, created **for entertainment, culture, and community
 
 ### TL;DR:
 
-If you’re looking for a guaranteed return, **this ain't it**. $PEPERONI is a spicy slice of internet culture — not financial advice, not a promise of gains.
+If you’re looking for a guaranteed return, **this ain't it**. $PEPERONI is a spicy slice of internet culture, not financial advice, not a promise of gains.
 
 > “We’re baking memes, not securities.”
 
