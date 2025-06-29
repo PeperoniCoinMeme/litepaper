@@ -45,7 +45,7 @@ header-includes:
     - [M6 - Meme Coin Launchpad](#m6---meme-coin-launchpad)
     - [M7 - Meme Airdrop Tool](#m7---meme-airdrop-tool)
     - [M8 - Meme On-Chain Form Tool](#m8---meme-on-chain-form-tool)
-  - [Sliceonomics](#sliceonomics)
+  - [Slicenomics](#slicenomics)
     - [Total Supply: **1,790,000,000 $PEPERONI**](#total-supply-1790000000-peperoni)
     - [The Milestone Burn: 790,000,000 $PEPERONI (44.13%)](#the-milestone-burn-790000000-peperoni-4413)
     - [Distribution of the 1,000,000,000 $PEPERONI remaining supply](#distribution-of-the-1000000000-peperoni-remaining-supply)
@@ -140,7 +140,7 @@ Our roadmap isn’t bound by rigid timelines we build as the dough rises and the
 
 \newpage
 
-## Sliceonomics
+## Slicenomics
 
 ### Total Supply: **1,790,000,000 $PEPERONI**
 
