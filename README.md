@@ -73,7 +73,7 @@ It’s not just a coin. It’s not just a meme. $PEPERONI is a community payment
 
 ## Mission & Vibes
 
-"Cooked by the People" What happens when you throw community, culture, and a little insanity into a Solana oven? You get $PEPERONI a decentralized memecoin that isn’t built on hype, but on **fun, fairness, and freedom**.
+"Cooked by the People" What happens when you throw community, culture, and a little insanity into a Solana oven? You get $PEPERONI, a decentralized memecoin that isn’t built on hype, but on **fun, fairness, and freedom**.
 
 No tax scams. No VCs calling shots. Just a growing tribe of meme chefs baking something tastier than the usual crypto soup.
 
